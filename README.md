@@ -4,9 +4,9 @@
     <li>Hide password  bcryptjs </li>
     <li>>services > Controller >router  </li>
    
-    </ol> 
+</ol> 
     <ol>
-    <h5>Signup</h5>
+    <li>Signup</li>
 <li> just post</li>
  <li></li>
  </ol>
@@ -32,6 +32,8 @@
        <h5> Authorization</h5>  
 <li> Create a function </li>
 <li> Router a Authorization("admin") </li>
+    
+    
 
 
 </ol>
