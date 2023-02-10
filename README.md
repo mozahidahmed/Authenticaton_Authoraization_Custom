@@ -5,11 +5,11 @@
     <li>>services > Controller >router  </li>
    
     </ol> 
-    <ol> 
-       <h5> SignUp</h5> 
-       <li>Just post </li>
-
-    </ol>
+    <ol>
+    <h5>Signup</h5>
+<li> just post</li>
+ <li></li>
+ </ol>
     <ol> 
        <h5> Login</h5>  
 <li> Check if Email and password are given</li>
