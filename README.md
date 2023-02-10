@@ -14,7 +14,7 @@
     
     
     
-    <ul> 
+  
        <h5>4) Login</h5>  
 <li> Check if Email and password are given</li>
 <li> Load user with email</li>
@@ -27,14 +27,14 @@
     <h5>5) Reload problem</h5>
 <li> generate token</li>
 <li> send user and toke</li>
-</ul>
-
-</ul>
 
 
-<ul> 
+
+
+
+
   <h5>6) Authorization</h5>  
 <li> Create a function </li>
 <li> Router a Authorization("admin") </li>
-</ul>
+    </ul>
 
