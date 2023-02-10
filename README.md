@@ -1,7 +1,10 @@
 
 <ul>
+
+    
     <li>Schema design Product file a  </li>
     <li>Hide password  bcryptjs </li>
+    
     <li>services || Controller ||  router  </li>
 
 
@@ -18,6 +21,7 @@
     <li> check if user is active</li>
     <li> if not active send res</li>
 
+    
     <li>Reload problem</li>
     <li> generate token</li>
     <li> send user and toke</li>
