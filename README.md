@@ -3,6 +3,8 @@
     <li>Schema design Product file a  </li>
     <li>Hide password  bcryptjs </li>
     <li>>services > Controller >router  </li>
+   
+    </ol> 
     <ol> 
        <h5> SignUp</h5> 
        <li>Just post </li>
@@ -33,4 +35,4 @@
 
 
 </ol>
-</ol>
+
