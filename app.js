@@ -9,6 +9,7 @@ const app = express();
 
 const authRoutes = require("./routes/auth.route")
 
+
 // * Middleware
 
 app.use(express.json());
@@ -17,6 +18,7 @@ app.use(cors());
 app.get("/", (req, res) => {
     res.send("Server is running");
 });
+
 app.use("/user", authRoutes)
 
 

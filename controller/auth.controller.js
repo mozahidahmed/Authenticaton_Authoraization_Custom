@@ -83,3 +83,10 @@ exports.getMe = async (req, res) => {
         })
     }
 }
+
+exports.ami = async (req, res) => {
+    
+        res.send('Ami')
+        
+}
+
