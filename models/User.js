@@ -63,6 +63,8 @@ const userSchema = mongoose.Schema({
     }
 })
 
+
+// password hide 
 userSchema.pre("save", function (next) {
     const password = this.password;
 
@@ -74,6 +76,7 @@ userSchema.pre("save", function (next) {
     next()
 })
 
+
 userSchema.methods.comparePassword = function (userPassword, hash) {
     const isPasswordValid = bcrypt.compareSync(userPassword, hash)
     return isPasswordValid;
@@ -82,3 +85,4 @@ userSchema.methods.comparePassword = function (userPassword, hash) {
 const User = mongoose.model("User", userSchema);
 
 module.exports = User;
+

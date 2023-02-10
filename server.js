@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 require("dotenv").config();
 require("colors")
-
+// 
 const app = require("./app")
 
 mongoose.connect(process.env.DATABASE_LOCAL).then(() => {
