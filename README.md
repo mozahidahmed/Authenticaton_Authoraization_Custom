@@ -2,7 +2,7 @@
 <ul>
     <li>Schema design Product file a  </li>
     <li>Hide password  bcryptjs </li>
-    <li>services > Controller >router  </li>
+    <li>services || Controller ||  router  </li>
 
 
     <li> SignUp</li>
