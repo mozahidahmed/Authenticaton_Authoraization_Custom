@@ -1,6 +1,6 @@
 <ul>
- <li>1)Schema design Product file a  </li>
-    <li>Hide password  bcryptjs </li>
+ <li>1)Schema design Product file   </li>
+    <li>Hide/# password  bcryptjs </li>
     <li>2)services || Controller ||  router  </li>
     <li> 3)SignUp</li>
     <li>Just post </li>
